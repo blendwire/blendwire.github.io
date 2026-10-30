@@ -4,7 +4,7 @@
 export const SITE = {
   name: 'Blendwire',
   tagline: 'Every Blender release, add-on and render engine update — live.',
-  url: process.env.SITE_URL || 'https://abdullaheltiby.github.io/blendwire',
+  url: process.env.SITE_URL || 'https://blendwire.github.io',
 };
 
 // Category colors follow Blender's axis / data-type colors.
